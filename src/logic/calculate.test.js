@@ -1,7 +1,7 @@
 import calculate from "./calculate";
 import chai from "chai";
 
-// https://github.com/chaijs/chai/issues/469
+// 
 chai.config.truncateThreshold = 0;
 
 const expect = chai.expect;
